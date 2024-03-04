@@ -22,3 +22,7 @@ Assignment Description: a3.pdf
 Pipe-Based Communication Protocol
 Shared Memory
 Memory Map
+
+# DSA
+Data Structures and Algorithms:
+Linked Lists, Heaps, Graphs, Hash Tables
