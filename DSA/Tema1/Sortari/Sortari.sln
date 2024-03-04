@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sortari", "Sortari.vcxproj", "{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Debug|x64.ActiveCfg = Debug|x64
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Debug|x64.Build.0 = Debug|x64
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Debug|x86.ActiveCfg = Debug|Win32
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Debug|x86.Build.0 = Debug|Win32
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Release|x64.ActiveCfg = Release|x64
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Release|x64.Build.0 = Release|x64
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Release|x86.ActiveCfg = Release|Win32
+		{6AFEA701-2B6F-4AD6-8C1F-FE1C69A85B04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B395081-A771-44ED-8C3B-967A8311AA19}
+	EndGlobalSection
+EndGlobal
