@@ -1,0 +1,122 @@
+﻿  OpenCVApplication.cpp
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(90,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(101,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(111,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(128,80): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(128,80): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(128,80): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(128,80): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(128,80): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(129,80): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(129,80): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(129,80): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(129,80): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(129,80): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(172,37): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(172,37): warning C4267:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(172,37): warning C4267:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(172,37): warning C4267:             _Ty=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(172,37): warning C4267:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,26): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,26): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,26): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,26): warning C4244:             _Tp=float
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,26): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,21): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,21): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,21): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,21): warning C4244:             _Tp=float
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(212,21): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(232,33): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(232,33): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(232,33): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(232,33): warning C4244:             _Tp=float
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(232,33): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(233,30): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(233,30): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(233,30): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(233,30): warning C4244:             _Tp=float
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(233,30): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,45): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,45): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,45): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,45): warning C4244:             _Tp=float
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,45): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,30): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,30): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,30): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,30): warning C4244:             _Tp=float
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(234,30): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,62): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,62): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,62): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,62): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,62): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,47): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,47): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,47): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,47): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(239,47): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,61): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,61): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,61): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,61): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,61): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,44): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,44): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,44): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,44): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(264,44): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(290,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,54): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,54): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,54): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,54): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,54): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,39): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,39): warning C4244:         with
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,39): warning C4244:         [
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,39): warning C4244:             _Tp=int
+D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(330,39): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+  OpenCVApplication.vcxproj -> D:\Faculta\PI\Proiect\Refactored\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
