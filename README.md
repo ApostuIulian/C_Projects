@@ -3,9 +3,7 @@
 Detecting playing cards using OpenCV library for Image Processing.
 
 # C_Projects
-
-All these 3 projects were made in Ubuntu (VirtualBox) using only OS system calls
-
+(Ubuntu)
 # a1
 
 Assignment Description: a1.pdf
