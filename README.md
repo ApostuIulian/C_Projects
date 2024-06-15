@@ -1,6 +1,7 @@
 # C++ OpenCV
 
 Detecting playing cards using OpenCV library for Image Processing.
+(Fix for HoughLinesP detecting more than 4 lines: usage of dilatation function each card before calling HoughLinesP function)
 
 # C_Projects
 (Ubuntu)
